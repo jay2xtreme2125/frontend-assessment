@@ -37,4 +37,10 @@ Read the `data.json` file and display the data as tabs on desktop and an accordi
 
 Submission
 ---
-We recommend submitting your completed assessment as a forked repository. Please replace README content with instructions and relevant documentation.
+
+### Notes
+* Exercise/exercise-1.html for Exercise 1
+* Exercise/exercise-2.html for Exercise 2
+* Explain why the result of `('b' + 'a' + + 'a' + 'a').toLowerCase()` is `banana` because NAN of not a number.
+* Subtle animations on exercises
+* Based on bootstrap mobile first
